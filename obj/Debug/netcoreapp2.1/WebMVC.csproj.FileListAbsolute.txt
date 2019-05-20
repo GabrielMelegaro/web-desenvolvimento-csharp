@@ -30,3 +30,5 @@ C:\Users\47218167829\Desktop\WebMVC\obj\Debug\netcoreapp2.1\WebMVC.Views.pdb
 C:\Users\47218167829\Desktop\WebMVC\obj\Debug\netcoreapp2.1\WebMVC.dll
 C:\Users\47218167829\Desktop\WebMVC\obj\Debug\netcoreapp2.1\WebMVC.pdb
 C:\Users\47218167829\Desktop\WebMVC\obj\Debug\netcoreapp2.1\WebMVC.csproj.CopyComplete
+C:\Users\47218167829\Desktop\WebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Musica\Index.g.cshtml.cs
+C:\Users\47218167829\Desktop\WebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Musica\Welcome.g.cshtml.cs

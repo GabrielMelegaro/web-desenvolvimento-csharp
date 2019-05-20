@@ -1,0 +1,14 @@
+@{
+    ViewData["Title"] = "MUSIC APP"; 
+}
+
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Nome"], Seja Bem-Vindo(a)!</h3>
+
+<p>Sua Playlist</p>
+<ul>
+    @for(int i = 0; i < (int) ViewData["Repeticoes"]; i++)
+    {
+        <li>@ViewData["Nome"]</li>
+    }
+</ul>
